@@ -8,7 +8,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple Main.
  */
 public class Lesson_2_Test {
     private Array<Integer> array;
